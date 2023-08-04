@@ -1,0 +1,53 @@
+header {
+    width: 100%;
+    height: 70px;
+    background-color: aliceblue;
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d-block {
+    display: block;
+}
+
+#plava {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.b-0 {
+    border: 0
+}
+
+* {
+    font-family: "Lucida Handwriting", Helvetica, sans-serif;
+}
+
+#vasara {
+    display: flex;
+    flex-direction: row-reverse;
+}
+footer {
+    text-align: center;
+    background-color: aqua;
+}
+p{
+    margin: 0%;
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+}
